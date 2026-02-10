@@ -32,14 +32,6 @@ Software Developer with 3+ years of experience specializing in Angular, React, a
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesakkose&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enesakkose&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact
 
 - 📧 **Email:** ens.akkose@gmail.com
