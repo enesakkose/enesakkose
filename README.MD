@@ -13,11 +13,3 @@
 Software Developer with 3+ years of experience specializing in Angular, React, and Next.js. Passionate about building scalable web applications with modern frameworks, state management, and performance optimization.
 
 ---
-
-## Contact
-
-- **Email:** ens.akkose@gmail.com
-- **LinkedIn:** [Enes Akkose](https://linkedin.com/in/enes-akkose-93a6ba1bb)
-- **GitHub:** [@enesakkose](https://github.com/enesakkose)
-- **Phone:** +90 505 169 5460
-- **Location:** Istanbul, Turkey
