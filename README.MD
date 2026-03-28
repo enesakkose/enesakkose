@@ -6,8 +6,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enesakkose)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ens.akkose@gmail.com)
 
-## My Works
-[[Chronic]](https://apps.apple.com/tr/app/chronic-daily-history-archive/id6760256547)
+## 🚀 My Works
+
+### 📱 Chronic – Daily History Archive  
+Turn your daily memories into a meaningful timeline. Capture, organize, and revisit your life effortlessly.
+
+🔗 [Download on the App Store](https://apps.apple.com/tr/app/chronic-daily-history-archive/id6760256547)
 
 ---
 
