@@ -23,6 +23,7 @@ A clean app to organize domains, track renewals, manage folders, and keep DNS de
 Collects every task assigned to you across Jira, Linear, GitHub, GitLab, Azure DevOps and Bitbucket into one list — on the web and in the macOS menubar. Open source.
 
 🔗 [Open the Web App](https://assignedtome.xyz)
+
 ---
 
 ## About Me
