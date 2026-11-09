@@ -19,10 +19,10 @@ A clean app to organize domains, track renewals, manage folders, and keep DNS de
 
 🔗 [Download on the App Store](https://apps.apple.com/cy/app/domain-organizer-tracker/id6766611220)
 
-### 🧷 AssignedToMe – Every Task Assigned to You, in One List  
+### <img src="https://raw.githubusercontent.com/enesakkose/AssignedToMe/main/desktop/src-tauri/icons/128x128.png" width="24" align="top" /> AssignedToMe – Every Task Assigned to You, in One List  
 Collects every task assigned to you across Jira, Linear, GitHub, GitLab, Azure DevOps and Bitbucket into one list — on the web and in the macOS menubar. Open source.
 
-🔗 [Open the Web App](https://assignedtome.xyz) · [Source on GitHub](https://github.com/enesakkose/AssignedToMe)
+🔗 [Open the Web App](https://assignedtome.xyz)
 ---
 
 ## About Me
